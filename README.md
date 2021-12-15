@@ -15,7 +15,7 @@
 
 
 <p align="left">
-    🦄 Linguagens: <strong> html/css/git.</strong>
+    🦄 Linguagens: <strong> html/css/JavaScript.</strong>
 </p>
 
 <p align="left">
