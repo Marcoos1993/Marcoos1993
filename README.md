@@ -1,4 +1,4 @@
-# Hello 😎
+# Olá 😎
 
 
 <p align="left">
@@ -25,7 +25,7 @@ Portanto, aguardo a minha oportunidade.
 
 
 <p align="left">
-    🦄 Linguagens: <strong> html/css/JavaScript.</strong>
+    🦄 Linguagens: <strong> HTML|CSS|JavaScript|Node|React.</strong>
 </p>
 
 <p align="left">
