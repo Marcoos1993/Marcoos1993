@@ -7,11 +7,21 @@
     width="400px" align="right" alt="Computador marcos rodrigues">
 
 <p align="left">
-    Hi,
-    I'm Marcos Rodrigues. I'm 28.
-    My profession is focused on services and projects in electricity,<strong> I'm migrating to the technology area
-    </strong>because I really like this area and dream of living with it from now on, I'm studying and creating my own
-    projects. Follow my profile! Thanks.
+    Atualmente possuo uma empresa no segmento de
+Prestação de Serviços voltados a
+Eletricidade/Automação, como resultado da minha
+dedicação por anos a fio nessa área.
+A tecnologia sempre me foi muito interessante e
+tenho bastante interesse em atuar no setor de
+Desenvolvimento.
+Possuo como meta conseguir uma posição como
+Desenvolvedor JR e, para isso, estou no curso
+imersivo "Desenvolvimento Web Full Stack", para
+elevar minhas habilidades.
+Tenho aprendido muito durante este período de
+estudos e tenho convicção que, estudando e atuando
+profissionalmente, serei um ótimo profissional.
+Portanto, aguardo a minha oportunidade.
 
 
 <p align="left">
