@@ -22,7 +22,7 @@ Estou sempre aberto a novas conexões, oportunidades de aprendizado e desafios i
 
 
 <p align="left">
-    🦄 Linguagens: <strong> HTML|CSS|JavaScript|Node|React.</strong>
+    🦄 Linguagem: <strong> JAVA .</strong>
 </p>
 
 <p align="left">
