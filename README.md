@@ -7,21 +7,18 @@
     width="400px" align="right" alt="Computador marcos rodrigues">
 
 <p align="left">
-    Atualmente possuo uma empresa no segmento de
-Prestação de Serviços voltados a
-Eletricidade/Automação, como resultado da minha
-dedicação por anos a fio nessa área.
-A tecnologia sempre me foi muito interessante e
-tenho bastante interesse em atuar no setor de
-Desenvolvimento.
-Possuo como meta conseguir uma posição como
-Desenvolvedor JR e, para isso, estou no curso
-imersivo "Desenvolvimento Web Full Stack", para
-elevar minhas habilidades.
-Tenho aprendido muito durante este período de
-estudos e tenho convicção que, estudando e atuando
-profissionalmente, serei um ótimo profissional.
-Portanto, aguardo a minha oportunidade.
+Olá! Sou o Marcos Rodrigues, um estudante de tecnologia, acabei de finalizar meu intercâmbio na Irlanda para aprimorar meu inglês e expandir minha experiência internacional. 
+
+Agora estou em busca de oportunidades para ingressar no mercado como desenvolvedor Java, combinando minha paixão por programação com meu desejo de crescimento profissional.
+
+ Estou cursando Análise e Desenvolvimento de Sistemas, fiz alguns cursos e continuo estudando como foco em Backend com Java e Spring boot, estou constantemente buscando aprender e me desenvolver nesta área  da tecnologia.
+
+Principais Pontos Fortes:
+
+ Experiência em desenvolvimento Java e familiaridade com frameworks como Spring Boot.
+Comprometido em aprender e crescer profissionalmente, atualmente explorando novos conceitos e práticas na área.
+ Busco oportunidades para aplicar minhas habilidades técnicas em um ambiente desafiador e colaborativo.
+Estou sempre aberto a novas conexões, oportunidades de aprendizado e desafios interessantes. Se você está buscando alguém apaixonado por tecnologia e pronto para contribuir, adoraria conectar-me!
 
 
 <p align="left">
