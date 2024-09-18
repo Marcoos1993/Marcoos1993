@@ -22,14 +22,6 @@ Estou sempre aberto a novas conexões, oportunidades de aprendizado e desafios i
 
 
 <p align="left">
-    🦄 Linguagem: <strong> JAVA .</strong>
-</p>
-
-<p align="left">
-    💼 Ferramentas: <strong> VS code e GitHub.</strong>
-</p>
-
-<p align="left">
     Connect with me:
 </p>
 
